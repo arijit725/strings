@@ -1,4 +1,4 @@
-package org.arijit.string.combination;
+package org.arijit.string.combination.binarystring;
 
 public class BinaryStringWithoutConsecutive1 {
 
